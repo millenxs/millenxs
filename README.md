@@ -19,6 +19,45 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
+## Projetos em Destaque
+### Front-End
+**Snake Game** \
+• Este projeto é uma versão personalizada do clássico jogo Snake. A cobra possui um gradiente de arco-íris, e a cada coração comido, a cobra aumenta de tamanho e adiciona novas cores. Além disso, há recursos românticos, como um card com frases exibido ao clicar em um botão e um pop-up de "Game Over" ao final do jogo. \
+Linguagens & Tecnologias: `JavaScript`, `HTML5`, 'CSS3'\
+Projetos em destaque: [Deploy](https://snake-gamejs.vercel.app/), [Repositório](<https://github.com/millenxs/snake-gamejs>)
+<br/>
+
+**Calculadora - IMC** \
+• Este projeto tem como objetivo criar uma aplicação web simples e eficiente para calcular o IMC de um usuário com base em sua altura e peso. \
+Linguagens & Tecnologias: `JavaScript`, `HTML5`, 'CSS3'\
+Projetos em destaque: [Deploy](https://calculadora-imc-six-eta.vercel.app/), [Repositório](<https://github.com/millenxs/contador-imc>)
+<br/>
+
+**Lista de Contato** \
+• Projeto de Gerenciador de Contatos/Uma lista de contatos que você pode adicionar, editar, pesquisar e apagar contatos (CRUD) \
+Linguagens & Tecnologias: `JavaScript`, `HTML/CSS`\
+Projetos em destaque: [Deploy](https://contact-list-two-phi.vercel.app/), [Repositório](<https://github.com/millenxs/contact-list>)
+<br/>
+
+### Back-End
+
+**Automação para enviar email** \
+• Automação em Python utilizando as bibliotecas Pyautogui e pyperclip. Robô para enviar email automatizados. \
+Linguagens & Tecnologias: `Python`, `Pyautogui`,'pyperclip' \
+Projetos em destaque: [Repositório](<https://github.com/millenxs/automacao-python>)
+<br/>
+
+**Analise de Dados** \
+• Analise de Dados utilizando Pandas e plotly através de planilhas de Excel. \
+Linguagens & Tecnologias: `Python`, `Pandas`,'plotly' \
+Projetos em destaque: [Repositório](<https://github.com/millenxs/analisedados-python>)
+<br/>
+
+**Task Manager** \
+• Este é um projeto de CRUD (Create, Read, Update, Delete) básico contendo página inicial com Cadastro/Login que criei utilizando PHP no backend, MySQL como banco de dados, JavaScript e Bootstrap no front-end. \
+Linguagens & Tecnologias: `Javascript`, `PHP`,'MySQL', 'Bootstrap' \
+Projetos em destaque: [Repositório](<https://github.com/millenxs/task-manager>)
+<br/>
 
 ## Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/millenxs)
