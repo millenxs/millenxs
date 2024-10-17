@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou Millena
 
-🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e desenvolvimento de software. Atualmente, sou **desenvolvedora Front-End** e buscando me especializar em **Inteligência Artificial**.
+🎓 Sou formada em **Análise e Desenvolvimento de Sistemas** apaixonada por tecnologia e desenvolvimento de software. Atualmente, sou **desenvolvedora Front-End** e buscando me especializar em **Full** e **Inteligência Artificial**.
 
 ## Habilidades
 
