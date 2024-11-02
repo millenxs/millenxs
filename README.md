@@ -28,16 +28,14 @@
 
 ## Projetos em Destaque
 ### Front-End
-**Snake Game** \
-• Este projeto é uma versão personalizada do clássico jogo Snake. A cobra possui um gradiente de arco-íris, e a cada coração comido, a cobra aumenta de tamanho e adiciona novas cores. Além disso, há recursos românticos, como um card com frases exibido ao clicar em um botão e um pop-up de "Game Over" ao final do jogo. \
-Linguagens & Tecnologias: `JavaScript`, `HTML5`, 'CSS3'\
-Projetos em destaque: [Deploy](https://snake-gamejs.vercel.app/), [Repositório](<https://github.com/millenxs/snake-gamejs>)
+**My Portfólio** \
+• Este projeto é um portfólio desenvolvido com ReactJS e TypeScript, estilizado usando TailwindCSS e empacotado com Vite. O portfólio exibe meus projetos e habilidades em uma interface moderna, interativa e responsiva, com animações proporcionadas por bibliotecas como AOS (Animate On Scroll) e GSAP.\
+Projetos em destaque: [Deploy](my-portfolio-rho-dun-42.vercel.app), [Repositório](<https://github.com/millenxs/my-portfolio>)
 <br/>
 
-**Calculadora - IMC** \
-• Este projeto tem como objetivo criar uma aplicação web simples e eficiente para calcular o IMC de um usuário com base em sua altura e peso. \
-Linguagens & Tecnologias: `JavaScript`, `HTML5`, 'CSS3'\
-Projetos em destaque: [Deploy](https://calculadora-imc-six-eta.vercel.app/), [Repositório](<https://github.com/millenxs/contador-imc>)
+**Site de Receitas** \
+• Este é um site de receitas web construído em React que utiliza a API pública do TheMealDB para buscar detalhes de receitas. O aplicativo permite aos usuários visualizar uma lista de receitas e obter informações detalhadas sobre cada uma delas.\
+Projetos em destaque: [Deploy](recipes-web-three.vercel.app), [Repositório](<https://github.com/millenxs/recipes-web>)
 <br/>
 
 **Lista de Contato** \
@@ -46,7 +44,7 @@ Linguagens & Tecnologias: `JavaScript`, `HTML/CSS`\
 Projetos em destaque: [Deploy](https://contact-list-two-phi.vercel.app/), [Repositório](<https://github.com/millenxs/contact-list>)
 <br/>
 
-### Back-End
+### Back-End / FullStack
 
 **Automação para enviar email** \
 • Automação em Python utilizando as bibliotecas Pyautogui e pyperclip. Robô para enviar email automatizados. \
@@ -64,6 +62,11 @@ Projetos em destaque: [Repositório](<https://github.com/millenxs/analisedados-p
 • Este é um projeto de CRUD (Create, Read, Update, Delete) básico contendo página inicial com Cadastro/Login que criei utilizando PHP no backend, MySQL como banco de dados, JavaScript e Bootstrap no front-end. \
 Linguagens & Tecnologias: `Javascript`, `PHP`,'MySQL', 'Bootstrap' \
 Projetos em destaque: [Repositório](<https://github.com/millenxs/task-manager>)
+<br/>
+
+**Vegan Bot** \
+•Este é um projeto desenvolvido para fornecer informações sobre veganismo utilizando uma API generativa do Google. O projeto é construído com React e Vite, oferecendo uma experiência rápida e interativa para os usuários. \
+Projetos em destaque: [Deploy](veganbot-node.vercel.app), [Repositório](<https://github.com/millenxs/veganbot-node>)
 <br/>
 
 ## Contato
