@@ -26,6 +26,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
+
 ## Projetos em Destaque
 ### Front-End
 **My Portfólio** \
@@ -38,24 +39,12 @@ Projetos em destaque: [Deploy](my-portfolio-rho-dun-42.vercel.app), [Repositóri
 Projetos em destaque: [Deploy](recipes-web-three.vercel.app), [Repositório](<https://github.com/millenxs/recipes-web>)
 <br/>
 
-**Lista de Contato** \
-• Projeto de Gerenciador de Contatos/Uma lista de contatos que você pode adicionar, editar, pesquisar e apagar contatos (CRUD) \
-Linguagens & Tecnologias: `JavaScript`, `HTML/CSS`\
-Projetos em destaque: [Deploy](https://contact-list-two-phi.vercel.app/), [Repositório](<https://github.com/millenxs/contact-list>)
-<br/>
-
 ### Back-End / FullStack
 
 **Automação para enviar email** \
 • Automação em Python utilizando as bibliotecas Pyautogui e pyperclip. Robô para enviar email automatizados. \
 Linguagens & Tecnologias: `Python`, `Pyautogui`,'pyperclip' \
 Projetos em destaque: [Repositório](<https://github.com/millenxs/automacao-python>)
-<br/>
-
-**Analise de Dados** \
-• Analise de Dados utilizando Pandas e plotly através de planilhas de Excel. \
-Linguagens & Tecnologias: `Python`, `Pandas`,'plotly' \
-Projetos em destaque: [Repositório](<https://github.com/millenxs/analisedados-python>)
 <br/>
 
 **Task Manager** \
