@@ -32,38 +32,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-
-## Projetos em Destaque
-### Front-End
-**My Portfólio** \
-• Este projeto é um portfólio desenvolvido com ReactJS e TypeScript, estilizado usando TailwindCSS e empacotado com Vite. O portfólio exibe meus projetos e habilidades em uma interface moderna, interativa e responsiva, com animações proporcionadas por bibliotecas como AOS (Animate On Scroll) e GSAP.\
-Projetos em destaque: [Deploy](my-portfolio-rho-dun-42.vercel.app), [Repositório](<https://github.com/millenxs/my-portfolio>)
-<br/>
-
-**Site de Receitas** \
-• Este é um site de receitas web construído em React que utiliza a API pública do TheMealDB para buscar detalhes de receitas. O aplicativo permite aos usuários visualizar uma lista de receitas e obter informações detalhadas sobre cada uma delas.\
-Projetos em destaque: [Deploy](recipes-web-three.vercel.app), [Repositório](<https://github.com/millenxs/recipes-web>)
-<br/>
-
-### Back-End / FullStack
-
-**Automação para enviar email** \
-• Automação em Python utilizando as bibliotecas Pyautogui e pyperclip. Robô para enviar email automatizados. \
-Linguagens & Tecnologias: `Python`, `Pyautogui`,'pyperclip' \
-Projetos em destaque: [Repositório](<https://github.com/millenxs/automacao-python>)
-<br/>
-
-**Task Manager** \
-• Este é um projeto de CRUD (Create, Read, Update, Delete) básico contendo página inicial com Cadastro/Login que criei utilizando PHP no backend, MySQL como banco de dados, JavaScript e Bootstrap no front-end. \
-Linguagens & Tecnologias: `Javascript`, `PHP`,'MySQL', 'Bootstrap' \
-Projetos em destaque: [Repositório](<https://github.com/millenxs/task-manager>)
-<br/>
-
-**Vegan Bot** \
-•Este é um projeto desenvolvido para fornecer informações sobre veganismo utilizando uma API generativa do Google. O projeto é construído com React e Vite, oferecendo uma experiência rápida e interativa para os usuários. \
-Projetos em destaque: [Deploy](veganbot-node.vercel.app), [Repositório](<https://github.com/millenxs/veganbot-node>)
-<br/>
-
 ## Contato
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/millenxs)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/millena-medeiros-76467b106/)
