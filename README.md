@@ -4,7 +4,7 @@
 
 Trabalho levando LLMs para produção em ambiente multi-tenant: agentes de IA, geração dinâmica de system prompts, arquiteturas RAG e integração de IA com sistemas corporativos e canais digitais.
 
-🏢 Software Engineer na **Toolzz**, um SaaS B2B de produtos conversacionais com IA
+🏢 Software Engineer com experiência em produção em SaaS B2B de IA e arquiteturas Full Stack (Node.js, TypeScript, Python, React)
 🎓 Pós-graduação em **Inteligência Artificial e Machine Learning**
 🌐 [Portfólio](https://millena-medeiros-ai.vercel.app)
 
